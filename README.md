@@ -26,6 +26,7 @@ This project delivers a complete end-to-end portfolio case study of Bangalore's 
 │ ├── RoadcrashTrendDashboard.twbx
 │ └── screenshots/
 │ ├── overview.png
+| ├── Trend.png
 │ ├── zone.png
 │ ├── hotspots.png
 │ ├── comparison.png
